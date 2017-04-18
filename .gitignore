@@ -1,3 +1,4 @@
-/studio/*
+studio/*
 *.rar
 *.zip
+.idea/**/*
